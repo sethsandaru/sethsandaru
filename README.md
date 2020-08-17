@@ -1,6 +1,6 @@
 ### Brave Dragon - Seth Phat's Github 👋
 
-Hello my friends, my name is Seth Phat, nice to meet you. I'm a Mid. Full-Stack Engineer. A super funny, socialable, opstimistic and energetic guy who really love Technology.
+Hello my friends, my name is Seth Phat, nice to meet you. I'm a Mid. Full-Stack Engineer. A super funny, socialable, opstimistic and energetic guy who really loves Technology.
 
 I'm working and living in HCMC, Vietnam. I built (and building) a lot of awesome products.
 
@@ -22,7 +22,7 @@ Feel free to contact me if you want to know more ;)
 </p>
 
 ### My links
-- My personal blog: https://sethphat.com (Vietnamese only)
-
+- [My Blog](https://sethphat.com) (Vietnamese only)
+- [My LinkedIn](https://www.linkedin.com/in/sethphat/)
 
 "If you have the motivation, I don't think anything in this world would be impossible"
