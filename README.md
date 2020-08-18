@@ -1,6 +1,6 @@
-### Brave Dragon - Seth Phat's Github 👋
+## Brave Dragon - Seth Phat's Github 👋
 
-Hello my friends, my name is Seth Phat, nice to meet you. I'm a Mid. Full-Stack Engineer. A super funny, socialable, opstimistic and energetic guy who really loves Technology.
+Hello my friends. My name is Seth Phat, nice to meet you. I'm a Mid-Level Full-Stack Engineer. A super funny, sociable, optimistic and energetic guy who really loves Technology.
 
 I'm working and living in HCMC, Vietnam. I built (and building) a lot of awesome products.
 
@@ -16,13 +16,15 @@ Feel free to contact me if you want to know more ;)
 - MySQL/MariaDB/PostgreSQL
 - Docker
 
+### My Stats
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sethsandaru&show_icons=true&theme=dracula&count_private=true" alt="sethsandaru" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethsandaru&layout=compact&theme=dracula" alt="sethsandaru" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=sethsandaru&show_icons=true&theme=vue-dark&count_private=true" alt="sethsandaru" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethsandaru&layout=compact&theme=vue-dark" alt="sethsandaru" /> 
 </p>
 
 ### My links
 - [My Blog](https://sethphat.com) (Vietnamese only)
 - [My LinkedIn](https://www.linkedin.com/in/sethphat/)
 
-"If you have the motivation, I don't think anything in this world would be impossible"
+"If you have the motivation, I don't think anything in this world is impossible"
