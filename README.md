@@ -12,16 +12,14 @@ I'm working and living in HCMC, Vietnam. I built (and building) a lot of awesome
 Want to know a secret? My first programming language I learnt was **Lua** (from 2009 - when I was in 9th grade). And then, **PHP** (2010) 😆 😂
 
 ### My STACK
-- PHP (5, 7+)
+- PHP 7+, 8
   - Laravel 5+, 6.x, 7.x, 8.x
   - PHPUnit
 - JavaScript (ES5, 6, 7,...)
   - VueJS 2, 3
 - TypeScript
-  - NestJS
 - Database
-  - MySQL / MariaDB
-  - PostgreSQL
+  - MySQL / MariaDB / PostgreSQL
   - Redis
   - MongoDB
 - Docker
@@ -32,8 +30,8 @@ Want to know a secret? My first programming language I learnt was **Lua** (from 
   - https://github.com/sethsandaru/puppeteer-playground
 - PostgreSQL 🔜: deep dive into more advanced stuffs.
 - Kafka / any Message Queue 🔜
-- gRPC 🔜
 - Flutter 🔜
+- Crystal or Rust 🔜
 
 ### My Stats
 
