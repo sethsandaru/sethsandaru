@@ -12,7 +12,7 @@ I'm living & working in HCMC, Vietnam. I have built (and building) a lot of awes
 Want to know a secret? My first-ever programming language I learnt was **Lua** (from 2009 - when I was in 9th grade). And then, **PHP** (2010) 😆 😂
 
 ### STACK / Knowledge / Tech
-- PHP 7+
+- PHP 7+ & PHP8
   - Laravel 5 ~ 8
   - PHPUnit
 - JavaScript (ES5, 6, 7,...)
@@ -27,7 +27,7 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 ### My Learning Plans
 - PostgreSQL 🔜: deep dive into more advanced stuff
 - Flutter 🔜
-- PHP**8** 🔜
+- PHP**8** - Done!!
 
 ### My GitHub Stats
 
