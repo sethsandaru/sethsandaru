@@ -5,7 +5,9 @@
 
 Welcome, my friends.
 
-My name is _**Seth Phat**_, nice to meet you. I'm a Mid-level Full-Stack Engineer. A super funny, friendly, optimistic and energetic guy who really loves Technology & Programming since his high school years. I'm a continuous learner, team-player.
+My name is **Seth Phat**, nice to meet you. I'm working as a Senior Backend Engineer @ [Aspire](https://aspireapp.com) #1 NeoBank of SEA.
+
+Many people knows me as a super funny, friendly, optimistic and energetic guy who really loves Technology & Programming since his high school years. I'm a continuous learner, team-player.
 
 I'm living & working in HCMC, Vietnam. I have built (and building) a lot of awesome products (including the **Vue Form Builder**, my beloved project).
 
