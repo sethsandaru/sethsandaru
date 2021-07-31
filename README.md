@@ -5,7 +5,7 @@
 
 Welcome, my friends.
 
-My name is **Seth Phat**, nice to meet you. I'm working as a Senior Backend Engineer
+My name is **Seth Phat**, nice to meet you. I'm working as a Senior Backend Engineer @ Aspire, #1 NEOBank of SEA
 
 Many people knows me as a super funny, friendly, optimistic and energetic guy who really loves Technology & Programming since his high school years. I'm a continuous learner, team-player.
 
