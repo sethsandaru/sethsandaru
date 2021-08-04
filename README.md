@@ -2,10 +2,11 @@
   🐉 <span style="color:#e74c3c;">Brave Dragon</span> - Seth Phat's Github Profile 👋
 </h1>
 
+<p align="center">"If you have the motivation, I don't think anything in this world is impossible"</p>
 
 Welcome, my friends.
 
-My name is **Seth Phat**, nice to meet you. I'm working as a Senior Backend Engineer @ Aspire, #1 NEOBank of SEA
+My name is **Seth Phat**, nice to meet you. I'm working as a Senior Backend Engineer @ **Aspire**, #1 NEOBank of SEA
 
 Many people knows me as a super funny, friendly, optimistic and energetic guy who really loves Technology & Programming since his high school years. I'm a continuous learner, team-player.
 
@@ -18,18 +19,21 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
   - Laravel 5 ~ 8
   - PHPUnit
 - JavaScript (ES5, 6, 7,...)
-  - VueJS 2, 3
+  - VueJS 2 & 3
 - TypeScript
+  - NestJS
 - Database
   - MySQL / MariaDB / PostgreSQL
   - Redis
   - MongoDB
 - Docker
+- Linux / Ubuntu
+- Cloud Compute (Vultr / DigitalOcean / AWS)
 
 ### My Learning Plans
 - PostgreSQL 🔜: deep dive into more advanced stuff
 - Flutter 🔜
-- PHP**8** - Done!!
+- A function-programming language??
 
 ### My GitHub Stats
 
@@ -39,9 +43,10 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 </p>
 
 ### My Social Media Links
+- [All my Links](https://bio.link/sethphat)
 - [My Blog](https://sethphat.com) (Vietnamese only)
 - [My LinkedIn](https://www.linkedin.com/in/sethphat/)
 
 Feel free to contact me if you want to know more about me 😉
 
-"If you have the motivation, I don't think anything in this world is impossible"
+Have a great day, folks!
