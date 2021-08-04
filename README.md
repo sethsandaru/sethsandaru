@@ -29,6 +29,7 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 - Docker
 - Linux / Ubuntu
 - Cloud Compute (Vultr / DigitalOcean / AWS)
+- Eat - Sleep - Test Driven Development 😂
 
 ### My Learning Plans
 - PostgreSQL 🔜: deep dive into more advanced stuff
