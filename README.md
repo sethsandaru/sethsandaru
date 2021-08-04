@@ -12,7 +12,7 @@ Many people knows me as a super funny, friendly, optimistic and energetic guy wh
 
 I'm living & working in HCMC, Vietnam. I have built (and building) a lot of awesome products (including the **Vue Form Builder**, my beloved project).
 
-Want to know a secret? My first-ever programming language I learnt was **Lua** (from 2009 - when I was in 9th grade). And then, **PHP** (2010) 😆 😂
+Want to know a secret? My first-ever programming language I learnt was **Lua** (from 2009 - when I was a 9th-grade student). And then, **PHP** (2010) 😆 😂
 
 ### STACK / Knowledge / Tech
 - PHP 7+ & PHP8
