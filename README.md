@@ -32,9 +32,10 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 - Eat - Sleep - Test Driven Development 😂
 
 ### My Learning Plans
-- PostgreSQL 🔜: deep dive into more advanced stuff
-- Flutter 🔜
-- A function-programming language??
+- Flutter ✅
+- PostgreSQL 🏃‍♂️: deep dive into more advanced stuff
+- A function-programming language - Yes: **Go** 🏃‍♂️🏃‍♂️🏃‍♂️
+- Kubernetes 🏃‍♂️
 
 ### My GitHub Stats
 
