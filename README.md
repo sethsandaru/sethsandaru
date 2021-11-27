@@ -4,9 +4,9 @@
 
 <p align="center">"If you have the motivation, I don't think anything in this world is impossible"</p>
 
-Welcome, my friends.
+Hello mates,
 
-My name is **Seth Phat**, nice to meet you. I'm working as a Senior Backend Engineer @ **Aspire**, #1 NEOBank of SEA
+My name is **Seth Phat**, nice to meet you. I'm working as a Senior Backend Engineer @ **Aspire**, #1 FinanceOS of SEA
 
 Many people knows me as a super funny, friendly, optimistic and energetic guy who really loves Technology & Programming since his high school years. I'm a continuous learner, team-player.
 
@@ -14,9 +14,9 @@ I'm living & working in HCMC, Vietnam. I have built (and building) a lot of awes
 
 Want to know a secret? My first-ever programming language I learnt was **Lua** (from 2009 - when I was a 9th-grade student). And then, **PHP** (2010) 😆 😂
 
-### STACK / Knowledge / Tech
-- PHP 7+ & PHP8
-  - Laravel 5 ~ 8
+### STACK / Knowledge / Tech - Working on
+- PHP 8+ (the latest - the better)
+  - Laravel 8 (the latest - the better)
   - PHPUnit
 - JavaScript (ES5, 6, 7,...)
   - VueJS 2 & 3
@@ -32,7 +32,7 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 - Eat - Sleep - Test Driven Development 😂
 
 ### My Learning Plans
-- Flutter ✅
+- Flutter ✅ (dunno why I always finished Mobile stuff first) - Flutter is super cool!
 - PostgreSQL 🏃‍♂️: deep dive into more advanced stuff
 - A function-programming language - Yes: **Go** 🏃‍♂️🏃‍♂️🏃‍♂️
 - Kubernetes 🏃‍♂️
