@@ -16,32 +16,38 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 
 ### STACK / Technies
 - PHP 8+ (the latest - the better)
-  - Laravel 8 (the latest - the better)
+  - Laravel 8 & 9 (the latest - the better)
   - PHPUnit
 - JavaScript (ES5, 6, 7,...)
   - VueJS 2 & 3
-- TypeScript
+- TypeScript (Backend) 
   - NestJS
-- Database
+- Databases
   - MySQL / MariaDB / PostgreSQL
   - Redis
   - MongoDB
-- CSS (not-so-expert-in-this-particular)
+- CSS (intermediate level)
+  - Tailwind FTW (my main CSS framework for pet projects)
   - Boostrap 3,4,5
-  - Tailwind 2,3
 - Tools:
   - Docker
   - NPM/Yarn/Composer/Webpack/Vite
+  - TablePlus / PHPStorm / IntelliJ 
 - OS: Linux (Ubuntu, CentOS - for servers), MacOS (for work), Windows (for gaming)
-- Cloud Compute (Vultr / DigitalOcean / AWS)
+- Cloud (Vultr / DigitalOcean / AWS) - soft-core
 - Eat - Sleep - Test Driven Development 😂
 
+### Personal Projects 
+Do I have some? Yes I do and I super proud of them. Both are web-app.
+
+- First project: Serving **~12k visitors** per day
+- Second project: Serving **400+ PAID** subscribers (monthly)
+
 ### My Learning Plans
-- Flutter ✅ (dunno why I always finished Mobile stuff first) - Flutter is super cool!
 - PostgreSQL 🏃‍♂️: deep dive into more advanced stuff
 - Kafka 🏃‍♂️
 - A function-programming language - Yes: **Go** 🏃‍♂️🏃‍♂️🏃‍♂️
-- Kubernetes 🏃‍♂️
+- Kubernetes 🏃‍♂ (postponed)
 
 ### My GitHub Stats
 
@@ -54,7 +60,5 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 - [All my Links](https://bio.link/sethphat)
 - [My Blog](https://sethphat.com) (Vietnamese only)
 - [My LinkedIn](https://www.linkedin.com/in/sethphat/)
-
-Feel free to contact me if you want to know more about me 😉
 
 Have a great day, my mate!
