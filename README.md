@@ -41,7 +41,7 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 Do I have some? Yes I do and I super proud of them. Both are web-app.
 
 - First project: Serving **~12k visitors** per day
-- Second project: Serving **400+ PAID** subscribers (monthly)
+- Second project: Serving **400+ PAID** subscribers (monthly & annually)
 
 ### My Learning Plans
 - PostgreSQL 🏃‍♂️: deep dive into more advanced stuff
