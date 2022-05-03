@@ -14,47 +14,54 @@ I'm living & working in HCMC, Vietnam. I have built (and building) a lot of awes
 
 Want to know a secret? My first-ever programming language I learnt was **Lua** (from 2009 - when I was a 9th-grade student). And then, **PHP** (2010) 😆 😂
 
-### STACK / Technies
+## STACK / Technies
+
+### Backend
 - PHP 8+ (the latest - the better)
   - Laravel 8 & 9 (the latest - the better)
-  - PHPUnit
-- JavaScript (ES5, 6, 7,...)
-  - VueJS 2 & 3
-- TypeScript (Backend) 
-  - NestJS
+- TypeScript & NestJS
+- Go
 - Databases
   - MySQL / MariaDB / PostgreSQL
   - Redis
-  - MongoDB
+- Eat - Sleep - Test Driven Development 😂
+    - PHPUnit
+    - Jest
+
+### Frontend
+- JavaScript (ES5, 6, 7,...)
+  - VueJS 2 & 3
 - CSS (intermediate level)
   - Tailwind FTW (my main CSS framework for pet projects)
-  - Boostrap 3,4,5
-- Tools:
-  - Docker
-  - NPM/Yarn/Composer/Webpack/Vite
-  - TablePlus / PHPStorm / IntelliJ 
-- OS: Linux (Ubuntu, CentOS - for servers), MacOS (for work), Windows (for gaming)
-- Cloud (Vultr / DigitalOcean / AWS) - soft-core
-- Eat - Sleep - Test Driven Development 😂
 
-### Personal Projects 
+### Others
+- Tools: Docker, NPM/Yarn, Composer, Webpack/Vite, TablePlus,...
+- IDEs: PHPStorm, IntelliJ
+- OS: 
+    - Linux (Ubuntu/CentOS - for servers)
+    - MacOS (for working)
+    - Windows (for gaming)
+- Cloud (Vultr / DigitalOcean / AWS) - medium-core level
+
+## Personal Projects 
 Do I have some? Yes I do and I super proud of them. Both are web-app.
 
 - First project: Serving **~12k visitors** per day
 - Second project: Serving **400+ PAID** subscribers (monthly & annually)
+- Third project: (ON-GOING) It's [Pheasant](https://github.com/sethsandaru/pheasant)
 
-### My Learning Plans
-- Rust / Scala
-- Kafka
+## My Learning Plans
+- Language: Rust
+- Tool: Kafka
 
-### My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sethsandaru&show_icons=true&theme=vue-dark&count_private=true" alt="sethsandaru" /> <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethsandaru&layout=compact&theme=vue-dark" alt="sethsandaru" /> 
 </p>
 
-### My Social Media Links
+## My Social Media Links
 - [All my Links](https://bio.link/sethphat)
 - [My Blog](https://sethphat.com) (Vietnamese only)
 - [My LinkedIn](https://www.linkedin.com/in/sethphat/)
