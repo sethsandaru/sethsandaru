@@ -61,9 +61,12 @@ Do I have some? Yes I do and I super proud of them. Both are web-app.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethsandaru&layout=compact&theme=vue-dark" alt="sethsandaru" /> 
 </p>
 
-## My Social Media Links
+## Contact me via
 - [All my Links](https://bio.link/sethphat)
 - [My Blog](https://sethphat.com) (Vietnamese only)
 - [My LinkedIn](https://www.linkedin.com/in/sethphat/)
+- me@sethphat.com
+
+P/s: I always open for any talks, feel free to reach me.
 
 Have a great day, my mate!
