@@ -50,9 +50,10 @@ Do I have some? Yes I do and I super proud of them. Both are web-app.
 - Second project: Serving **400+ PAID** subscribers (monthly & annually)
 - Third project: (ON-GOING) It's [Pheasant](https://github.com/sethsandaru/pheasant)
 
-## My Learning Plans
-- Language: Rust
-- Tool: Kafka
+## My Learning/Improvement Plans
+
+- Daily LeetCode
+- Setup a simple API Gateway
 
 ## My GitHub Stats
 
