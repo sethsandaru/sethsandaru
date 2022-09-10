@@ -50,7 +50,7 @@ Do I have some? Yes I do and I super proud of them. They are all web-app.
 - First project: Serving **~15k visitors** per day (~25k per weekend ✈️)
 - Second project: Serving **500+ PAID** subscribers (monthly & annually)
 - Third project: (ON-GOING) It's [Pheasant](https://github.com/sethsandaru/pheasant)
-- Fourth project: (ON-GOING) :wink:
+- Fourth project: (ON-GOING) It's secret :wink:
 
 ## My Learning/Improvement Plans
 
@@ -66,10 +66,10 @@ Do I have some? Yes I do and I super proud of them. They are all web-app.
 
 ## Contact me via
 - [All my Links](https://bio.link/sethphat)
-- [My Blog](https://sethphat.com) (Vietnamese only)
+- [My Blog in English](https://dev.to/dashboard)
 - [My LinkedIn](https://www.linkedin.com/in/sethphat/)
 - me@sethphat.com
 
-P/s: I always open for any talks, feel free to reach me.
+P/s: I always open for any geek talks, feel free to reach me.
 
 Have a great day, my mate!
