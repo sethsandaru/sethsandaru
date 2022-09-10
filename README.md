@@ -1,5 +1,5 @@
 <h2 align="center">
-  🐉 <span style="color:#e74c3c;">Brave Dragon</span> - Seth Phat's Github Profile 👋
+  🐉 <span style="color:#e74c3c;">Brave Dragon</span> - Welcome to Seth Phat's world 👋
 </h1>
 
 <p align="center">"If you have the motivation, I don't think anything in this world is impossible"</p>
@@ -8,9 +8,9 @@ Hello mate,
 
 My name is **Seth Phat**, nice to meet you. I'm working as a Tech Lead @ **Aspire**, #1 FinanceOS of SEA.
 
-Many people knows me as a super funny, friendly, optimistic and energetic guy who really loves Technology & Programming since his high school years. I'm a continuous learner, team-player.
+People know me as a super funny, friendly, optimistic and energetic guy who really loves Technology & Programming since his high school years. I'm a continuous learner, team-player.
 
-I'm living & working in HCMC, Vietnam. I have built (and building) a lot of awesome products (including the **Vue Form Builder**, my beloved project).
+I'm living & working in HCMC, Vietnam. I have built (and building) a lot of awesome products and libraries. Still continue doing so with full power.
 
 Want to know a secret? My first-ever programming language I learnt was **Lua** (from 2009 - when I was a 9th-grade student). And then, **PHP** (2010) 😆 😂
 
@@ -30,7 +30,8 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 
 ### Frontend
 - JavaScript (ES5, 6, 7,...)
-  - VueJS 2 & 3
+  - VueJS 3
+    - ElementUI
 - CSS (intermediate level)
   - Tailwind FTW (my main CSS framework for pet projects)
 
@@ -41,14 +42,15 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
     - Linux (Ubuntu/CentOS - for servers)
     - MacOS (for working)
     - Windows (for gaming)
-- Cloud (Vultr / DigitalOcean / AWS) - medium-core level
+- Cloud Compute (Vultr / DigitalOcean / AWS) - medium-core level
 
 ## Personal Projects 
-Do I have some? Yes I do and I super proud of them. Both are web-app.
+Do I have some? Yes I do and I super proud of them. They are all web-app.
 
-- First project: Serving **~12k visitors** per day
-- Second project: Serving **400+ PAID** subscribers (monthly & annually)
+- First project: Serving **~15k visitors** per day (~25k per weekend ✈️)
+- Second project: Serving **500+ PAID** subscribers (monthly & annually)
 - Third project: (ON-GOING) It's [Pheasant](https://github.com/sethsandaru/pheasant)
+- Fourth project: (ON-GOING) :wink:
 
 ## My Learning/Improvement Plans
 
