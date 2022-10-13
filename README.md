@@ -6,7 +6,7 @@
 
 Hello mate,
 
-My name is **Seth Phat**, nice to meet you. I'm working as a Tech Lead @ **Aspire**, #1 FinanceOS of SEA.
+My name is **Seth Phat**, nice to meet you. Currently a Senior Rockstar Engineer and loves to level-up awesome products.
 
 People know me as a super funny, friendly, optimistic and energetic guy who really loves Technology & Programming since his high school years. I'm a continuous learner, team-player.
 
