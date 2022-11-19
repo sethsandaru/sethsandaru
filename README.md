@@ -49,8 +49,7 @@ Do I have some? Yes I do and I super proud of them. They are all web-app.
 
 - First project: Serving **~15k visitors** per day (~25k per weekend ✈️)
 - Second project: Serving **500+ PAID** subscribers (monthly & annually)
-- Third project: (ON-GOING) It's [Pheasant](https://github.com/sethsandaru/pheasant)
-- Fourth project: (ON-GOING) It's secret :wink:
+- Third project: (ON-GOING) heheh coming soon
 
 ## My Learning/Improvement Plans
 
@@ -59,17 +58,13 @@ Do I have some? Yes I do and I super proud of them. They are all web-app.
 
 ## My GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sethsandaru&show_icons=true&theme=vue-dark&count_private=true" alt="sethsandaru" /> <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethsandaru&layout=compact&theme=vue-dark" alt="sethsandaru" /> 
-</p>
+<center>
+  
+<img src="https://github-readme-stats.vercel.app/api?username=sethsandaru&show_icons=true&theme=default#gh-light-mode-only" alt="sethsandaru" /> <br />
+  
+</center>
 
 ## Contact me via
-- [All my Links](https://bio.link/sethphat)
-- [My Blog in English](https://dev.to/dashboard)
-- [My LinkedIn](https://www.linkedin.com/in/sethphat/)
 - me@sethphat.com
 
-P/s: I always open for any geek talks, feel free to reach me.
-
-Have a great day, my mate!
+Cheers!
