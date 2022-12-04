@@ -64,7 +64,8 @@ Do I have some? Yes I do and I super proud of them. They are all web-app.
   
 </center>
 
-## Contact me via
+## Find me
 - me@sethphat.com
+- [My Blog - sethphat.dev](https://sethphat.dev/)
 
 Cheers!
