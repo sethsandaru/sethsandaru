@@ -17,21 +17,20 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 ## STACK / Technies
 
 ### Backend
-- PHP 8+ (the latest - the better)
-  - Laravel 8 & 9 (the latest - the better)
+- PHP 8.1 & Laravel 9.xx (soon to be 8.2 & 10)
 - TypeScript & NestJS
-- Go
 - Databases
   - MySQL / MariaDB / PostgreSQL
   - Redis
+- Various Queue systems
 - Eat - Sleep - Test Driven Development 😂
     - PHPUnit
     - Jest
 
 ### Frontend
 - JavaScript (ES5, 6, 7,...)
-  - VueJS 3
-    - ElementUI
+  - VueJS 3 & ElementUI
+  - ReactJS
 - CSS (intermediate level)
   - Tailwind FTW (my main CSS framework for pet projects)
 
@@ -49,7 +48,7 @@ Do I have some? Yes I do and I super proud of them. They are all web-app.
 
 - First project: Serving **~15k visitors** per day (~25k per weekend ✈️)
 - Second project: Serving **500+ PAID** subscribers (monthly & annually)
-- Third project: (ON-GOING) heheh coming soon
+- Third project: (ON-GOING) [ShipSaaS - All generic things for a startup](https://github.com/shipsaas)
 
 ## My Learning/Improvement Plans
 
