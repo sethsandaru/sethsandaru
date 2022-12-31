@@ -48,12 +48,8 @@ Do I have some? Yes I do and I super proud of them. They are all web-app.
 
 - First project: Serving **~15k visitors** per day (~25k per weekend ✈️)
 - Second project: Serving **500+ PAID** subscribers (monthly & annually)
-- Third project: (ON-GOING) [ShipSaaS - All generic things for a startup](https://github.com/shipsaas)
-
-## My Learning/Improvement Plans
-
-- Daily LeetCode
-- Setup a simple API Gateway
+- Third project: [ShipSaaS - All awesome generic stuff for a startup. Save times](https://github.com/shipsaas)
+- Forth project: (ON-GOING) Planned and WIP, coming soon 😉
 
 ## My GitHub Stats
 
