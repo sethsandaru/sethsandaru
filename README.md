@@ -17,7 +17,7 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 ## STACK / Technies
 
 ### Backend
-- PHP 8.1 & Laravel 9.xx (soon to be 8.2 & 10)
+- PHP 8.1+ & Laravel 9,10
 - TypeScript & NestJS
 - Databases
   - MySQL / MariaDB / PostgreSQL
