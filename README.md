@@ -27,10 +27,10 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 | PHPUnit/Jest            	|                 	| Docker        	|
 
 ## Personal Projects 
-Do I have some? Yes I do and I super proud of them. They are all web-app.
+Do I have some? Yes I do and I super proud of them. I also publishing some of them as OSS.
 
 - First project: Serving **~15k visitors** per day (~25k per weekend ✈️)
-- Second project: Serving **500+ PAID** subscribers (monthly & annually)
+- Second project: Serving **500+ PAID** subscribers
 - Third project: [ShipSaaS - All awesome generic stuff for a startup. Save times](https://github.com/shipsaas)
 - Forth project: (ON-GOING) Planned and WIP, coming soon 😉
 
