@@ -16,32 +16,15 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 
 ## STACK / Technies
 
-### Backend
-- PHP 8.1+ & Laravel 9,10
-- TypeScript & NestJS
-- Databases
-  - MySQL / MariaDB / PostgreSQL
-  - Redis
-- Various Queue systems
-- Eat - Sleep - Test Driven Development 😂
-    - PHPUnit
-    - Jest
-
-### Frontend
-- JavaScript (ES5, 6, 7,...)
-  - VueJS 3 & ElementUI
-  - ReactJS
-- CSS (intermediate level)
-  - Tailwind FTW (my main CSS framework for pet projects)
-
-### Others
-- Tools: Docker, NPM/Yarn, Composer, Webpack/Vite, TablePlus,...
-- IDEs: PHPStorm, IntelliJ
-- OS: 
-    - Linux (Ubuntu/CentOS - for servers)
-    - MacOS (for working)
-    - Windows (for gaming)
-- Cloud Compute (Vultr / DigitalOcean / AWS) - medium-core level
+| Backend                 	| Frontend        	| Misc          	|
+|-------------------------	|-----------------	|---------------	|
+| PHP 8+                  	| JavaScript      	| TDD           	|
+| NodeJs                  	| TypeScript      	| DDD           	|
+| Laravel 9, 10+          	| Vue 3           	| Tech writer   	|
+| MySQL/PostgreSQL        	| React           	| Linux & MacOS 	|
+| Queues (SQS, Redis, DB) 	| TailwindCSS FTW 	| CI/CD         	|
+| Redis                   	|                 	| Vultr & AWS   	|
+| PHPUnit/Jest            	|                 	| Docker        	|
 
 ## Personal Projects 
 Do I have some? Yes I do and I super proud of them. They are all web-app.
