@@ -23,7 +23,7 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 | Laravel 9, 10+          	| Vue 3           	| Tech writer   	|
 | MySQL/PostgreSQL        	| React           	| Linux & MacOS 	|
 | Queues (SQS, Redis, DB) 	| TailwindCSS FTW 	| CI/CD         	|
-| Redis                   	|                 	| Vultr & AWS   	|
+| Redis                   	| Jest/Mocha       	| Vultr & AWS   	|
 | PHPUnit/Jest            	|                 	| Docker        	|
 
 ## Personal Projects 
