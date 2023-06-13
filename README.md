@@ -31,16 +31,12 @@ Do I have some? Yes I do and I super proud of them. I also publishing some of th
 
 - First project: Serving **~15k visitors** per day (~25k per weekend ✈️)
 - Second project: Serving **500+ PAID** subscribers 🚀
-- Third project: [ShipSaaS - Awesome open-sourced libraries for your PHP/Laravel apps](https://github.com/shipsaas) 🔥
+- Third project: [ShipSaaS - Awesome open-sourced libraries for your PHP/Laravel apps](https://github.com/shipsaas) / [ShipSaaS.Tech](https://shipsaas.tech) 🔥
 - Forth project: (ON-GOING) Working, working and working 🥹
 
 ## My GitHub Stats
 
-<center>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=sethsandaru&show_icons=true&theme=default#gh-light-mode-only" alt="sethsandaru" /> <br />
-  
-</center>
+(updating soon 😹)
 
 ## Find me
 - me@sethphat.com
