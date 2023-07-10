@@ -8,11 +8,11 @@ Hello mate,
 
 My name is **Seth Phat**, nice to meet you. Currently a Senior Rockstar Engineer and loves to level-up awesome products.
 
-People know me as a super funny, friendly, optimistic and energetic guy who really loves Technology & Programming since my high school years. I'm a continuous learner, team-player.
+People know me as a super funny, friendly, optimistic, and energetic guy who really loves Technology & Programming since my high school years. I'm a continuous learner, team-player.
 
 I'm living & working in HCMC, Vietnam. I have built (and building) a lot of awesome products and libraries. Still continue doing so in full throttle 🏃‍♂️
 
-Want to know a secret? My first-ever programming language I learnt was **Lua** (from 2009 - when I was a 9th-grade student). And then, **PHP** (2010) 😆 😂
+Want to know a secret? The first-ever programming language I learned was **Lua** (from 2009 - when I was a 9th-grade student). And then, **PHP** (2010) 😆 😂
 
 ## STACK / Technies
 
@@ -27,16 +27,12 @@ Want to know a secret? My first-ever programming language I learnt was **Lua** (
 | PHPUnit/Jest            	|                 	| Docker        	|
 
 ## Personal Projects 
-Do I have some? Yes I do and I super proud of them. I also publishing some of them as OSS.
+Do I have some? Yes, I do, and I am super proud of them. I also publishing some of them as OSS.
 
 - First project: Serving **~15k visitors** per day (~25k per weekend ✈️)
 - Second project: Serving **500+ PAID** subscribers 🚀
 - Third project: [ShipSaaS - Awesome open-sourced libraries for your PHP/Laravel apps](https://github.com/shipsaas) / [ShipSaaS.Tech](https://shipsaas.tech) 🔥
-- Forth project: (ON-GOING) Working, working and working 🥹
-
-## My GitHub Stats
-
-(updating soon 😹)
+- Forth project: [RoadToJobs - Personal Interview Tracking App](https://roadto.jobs)
 
 ## Find me
 - me@sethphat.com
