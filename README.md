@@ -19,12 +19,12 @@ Want to know a secret? The first-ever programming language I learned was **Lua**
 | Backend                 	| Frontend        	| Misc          	|
 |-------------------------	|-----------------	|---------------	|
 | PHP 8+                  	| JavaScript      	| TDD           	|
-| NodeJs                  	| TypeScript      	| DDD           	|
+| Node.JS 18+              	| TypeScript      	| DDD           	|
 | Laravel 9, 10+          	| Vue 3           	| Tech writer   	|
 | MySQL/PostgreSQL        	| React           	| Linux & MacOS 	|
 | Queues (SQS, Redis, DB) 	| TailwindCSS FTW 	| CI/CD         	|
 | Redis                   	| Jest/Mocha       	| Vultr & AWS   	|
-| PHPUnit/Jest            	|                 	| Docker        	|
+| PHPUnit/Jest            	| ❤️ Drag & Drop   	| Docker        	|
 
 ## Personal Projects 
 Do I have some? Yes, I do, and I am super proud of them. I also publishing some of them as OSS.
