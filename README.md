@@ -18,9 +18,9 @@ Want to know a secret? The first-ever programming language I learned was **Lua**
 
 | Backend                 	| Frontend        	| Misc          	|
 |-------------------------	|-----------------	|---------------	|
-| PHP 8+                  	| JavaScript      	| TDD           	|
+| PHP 8.2+                	| JavaScript      	| TDD           	|
 | Node.JS 18+              	| TypeScript      	| DDD           	|
-| Laravel 9, 10+          	| Vue 3           	| Tech writer   	|
+| Laravel 10+              	| Vue 3           	| Tech writer   	|
 | MySQL/PostgreSQL        	| React           	| Linux & MacOS 	|
 | Queues (SQS, Redis, DB) 	| TailwindCSS FTW 	| CI/CD         	|
 | Redis                   	| Jest/Mocha       	| Vultr & AWS   	|
@@ -32,10 +32,10 @@ Do I have some? Yes, I do, and I am super proud of them. I also publishing some 
 - First project: Serving **~15k visitors** per day (~25k per weekend ✈️)
 - Second project: Serving **500+ PAID** subscribers 🚀
 - Third project: [ShipSaaS - Awesome open-sourced libraries for your PHP/Laravel apps](https://github.com/shipsaas) / [ShipSaaS.Tech](https://shipsaas.tech) 🔥
-- Forth project: [RoadToJobs - Personal Interview Tracking App](https://roadto.jobs)
+- Forth project: [RoadToJobs - Personal Interview Tracking App](https://roadto.jobs) / [OSS](https://github.com/roadtojobs/roadtojobs) 🔥😎
 
 ## Find me
-- me@sethphat.com
+- [me@sethphat.com](mailto:me@sethphat.com)
 - [My Blog - sethphat.dev](https://sethphat.dev/)
 
-Cheers!
+Lovely day my friend 😉!
