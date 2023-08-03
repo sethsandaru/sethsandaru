@@ -39,3 +39,7 @@ Do I have some? Yes, I do, and I am super proud of them. I also publishing some 
 - [My Blog - sethphat.dev](https://sethphat.dev/)
 
 Lovely day my friend 😉!
+
+## Verification
+- 02082023/12221678
+- admin@sethphat.com
