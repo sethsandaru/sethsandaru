@@ -6,13 +6,13 @@
 
 Hello mate,
 
-My name is **Seth Phat**, nice to meet you. Currently a Senior Rockstar Engineer and loves to level-up awesome products.
+My name is **Seth Phat**, nice to meet you. Currently a Senior Rockstar Engineer who loves to level-up awesome products.
 
 People know me as a super funny, friendly, optimistic, and energetic guy who really loves Technology & Programming since my high school years. I'm a continuous learner, team-player.
 
 I'm living & working in HCMC, Vietnam. I have built (and building) a lot of awesome products and libraries. Still continue doing so in full throttle 🏃‍♂️
 
-Want to know a secret? The first-ever programming language I learned was **Lua** (from 2009 - when I was a 9th-grade student). And then, **PHP** (2010) 😆 😂
+Want to know a secret? The first-ever programming language I learned was **Lua** (in 2009 - when I was a 9th-grade student). And then, **PHP** (2010) 😆 😂
 
 ## STACK / Technies
 
@@ -39,7 +39,3 @@ Do I have some? Yes, I do, and I am super proud of them. I also publishing some 
 - [My Blog - sethphat.dev](https://sethphat.dev/)
 
 Lovely day my friend 😉!
-
-## Verification
-- 02082023/12221678
-- admin@sethphat.com
