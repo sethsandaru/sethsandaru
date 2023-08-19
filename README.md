@@ -26,8 +26,8 @@ Want to know a secret? The first-ever programming language I learned was **Lua**
 | Redis                   	| Jest/Mocha       	| Vultr & AWS   	|
 | PHPUnit/Jest            	| ❤️ Drag & Drop   	| Docker        	|
 
-## Personal Projects 
-Do I have some? Yes, I do, and I am super proud of them. I also publishing some of them as OSS.
+## Pet Projects 
+Do I have some? Yes, I do, and I am super proud of them. Some are open-sourced software.
 
 - First project: Serving **~15k visitors** per day (~25k per weekend ✈️)
 - Second project: Serving **500+ PAID** subscribers 🚀
