@@ -26,14 +26,11 @@ Wanna know a secret? The first-ever programming language I learned was **Lua** (
 | Redis                   	| Jest/Mocha       	| Vultr, AWS & GCP|
 | PHPUnit/Jest            	| ❤️ Drag & Drop   	| Docker        	|
 
-## Pet Projects 
-Do I have some? Yes, I do, and I am super proud of them. Some are open-sourced software.
+## My personal projects/products
 
-- First project: A forum that serves **~15k visitors** per day (~25k per weekend ✈️). PHP FTW.
-- Second project: A video platform that serves **500+ PAID** subscribers 🚀. PHP FTW x2.
-- Third project: [ShipSaaS - Awesome open-sourced libraries for your PHP/Laravel apps](https://github.com/shipsaas) / [ShipSaaS.Tech](https://shipsaas.tech) 🔥. PHP FTW x3.
-- Forth project: [RoadToJobs - Personal Interview Tracking App](https://roadto.jobs) / [OSS](https://github.com/roadtojobs/roadtojobs) 🔥😎 (oh this one is NodeJs haha)
-- Fifth project: [DevToolz for Developers - Fully open-sourced 🧧](https://tools.sethphat.dev/) / [GitHub Repo](https://github.com/sethsandaru/devtoolz). PHP FTW x4.
+- [ShipSaaS - Awesome open-sourced libraries for your PHP/Laravel apps](https://github.com/shipsaas) / [ShipSaaS.Tech](https://shipsaas.tech) 🔥
+- [DevToolz for Developers - Fully open-sourced 🧧](https://tools.sethphat.dev/) / [GitHub Repo](https://github.com/sethsandaru/devtoolz)
+- [RoadToJobs - Personal Interview Tracking App](https://roadto.jobs) / [OSS](https://github.com/roadtojobs/roadtojobs)
 
 ## Find me
 - [me@sethphat.com](mailto:me@sethphat.com)
