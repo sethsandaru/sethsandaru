@@ -30,6 +30,7 @@ Wanna know a secret? The first-ever programming language I learned was **Lua** (
 
 ## My personal projects/products
 
+- [RenderPDF.io - developer-friendly API to render HTML to PDFs in seconds 😎](https://renderpdf.io)
 - [ShipSaaS - Awesome open-sourced libraries for your PHP/Laravel apps](https://github.com/shipsaas) / [ShipSaaS.Tech](https://shipsaas.tech) 🔥
 - [DevToolz for Developers - Fully open-sourced 🧧](https://tools.sethphat.dev/) / [GitHub Repo](https://github.com/sethsandaru/devtoolz)
 - [RoadToJobs - Personal Interview Tracking App](https://roadto.jobs) / [OSS](https://github.com/roadtojobs/roadtojobs)
