@@ -16,6 +16,13 @@ I have built a lot of awesome products and libraries. Still continue doing that 
 
 Wanna know a secret? The first-ever programming language I learned was **Lua** (in 2009 - when I was a 9th-grade student). And then, **PHP** (2010) 😎
 
+## My personal projects/products
+
+- [RenderPDF.io - developer-friendly API to render HTML to PDFs in seconds 😎](https://renderpdf.io)
+- [ShipSaaS - Awesome open-sourced libraries for your PHP/Laravel apps](https://github.com/shipsaas) / [ShipSaaS.Tech](https://shipsaas.tech) 🔥
+- [DevToolz for Developers - Fully open-sourced 🧧](https://tools.sethphat.dev/) / [GitHub Repo](https://github.com/sethsandaru/devtoolz)
+- [RoadToJobs - Personal Interview Tracking App](https://roadto.jobs) / [OSS](https://github.com/roadtojobs/roadtojobs)
+
 ## STACK & Expertise
 
 | Backend                 	| Frontend        	| Misc          	|
@@ -27,13 +34,6 @@ Wanna know a secret? The first-ever programming language I learned was **Lua** (
 | Queues (SQS, Redis, DB) 	| TailwindCSS FTW 	| CI/CD         	|
 | Redis                   	| Jest/Mocha       	| Vultr, AWS & GCP|
 | PHPUnit/Jest            	| ❤️ Drag & Drop   	| Docker        	|
-
-## My personal projects/products
-
-- [RenderPDF.io - developer-friendly API to render HTML to PDFs in seconds 😎](https://renderpdf.io)
-- [ShipSaaS - Awesome open-sourced libraries for your PHP/Laravel apps](https://github.com/shipsaas) / [ShipSaaS.Tech](https://shipsaas.tech) 🔥
-- [DevToolz for Developers - Fully open-sourced 🧧](https://tools.sethphat.dev/) / [GitHub Repo](https://github.com/sethsandaru/devtoolz)
-- [RoadToJobs - Personal Interview Tracking App](https://roadto.jobs) / [OSS](https://github.com/roadtojobs/roadtojobs)
 
 ## Find me
 - [me@sethphat.com](mailto:me@sethphat.com)
