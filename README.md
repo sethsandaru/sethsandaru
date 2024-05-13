@@ -10,7 +10,7 @@ My name is **Seth Phat**, nice to meet you. A Senior Rockstar Engineer who loves
 
 People know me as a super funny, friendly, optimistic, and energetic guy who has loved Technology & Programming since high school 🥰. I'm a continuous learner, team-player 🏎️.
 
-Living in HCMC, Vietnam & working with engineers around the globe 😆. Can't start my day with a lovely Ca Phe Sua Da Saigon (Milk Coffee) ☕️.
+Living in Vietnam & working with engineers around the globe 😆. Can't start my day with a lovely Ca Phe Sua Da Saigon (Milk Coffee) ☕️.
 
 My facts: 
  - The first-ever programming language I learned was **Lua** (in 2009 - when I was a 9th-grade student) to develop games 👀
