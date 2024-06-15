@@ -21,6 +21,7 @@ My facts:
 ## My personal projects/products
 
 - [RenderPDF.io - developer-friendly API to render HTML to PDFs in seconds 😎](https://renderpdf.io)
+- [SKard.app 💳 - Spent Management for Vietnamese's HSBC Credit Cards](https://skard.app)
 - [ShipSaaS - Awesome open-sourced libraries for your PHP/Laravel apps](https://github.com/shipsaas) / [ShipSaaS.Tech](https://shipsaas.tech) 🔥
 - [DevToolz for Developers - Fully open-sourced 🧧](https://tools.sethphat.dev/) / [GitHub Repo](https://github.com/sethsandaru/devtoolz)
 - [RoadToJobs - Personal Interview Tracking App](https://github.com/roadtojobs/roadtojobs)
