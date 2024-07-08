@@ -34,7 +34,7 @@ My facts:
 | PHP 8.3                 	| JavaScript      	| TDD           	|
 | Node.JS 20              	| TypeScript      	| DDD           	|
 | Laravel 11              	| Vue 3           	| Tech writer   	|
-| MySQL/PostgreSQL        	| React           	| Linux & MacOS 	|
+| MySQL/PostgreSQL        	| React (soft-core) | Linux & MacOS 	|
 | Queues (SQS, Redis, DB) 	| TailwindCSS FTW 	| CI/CD         	|
 | Redis                   	| Jest/Mocha       	| Vultr, AWS & GCP|
 | PHPUnit/Jest            	| ❤️ Drag & Drop   	| Docker        	|
