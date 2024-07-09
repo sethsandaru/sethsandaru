@@ -21,7 +21,7 @@ My facts:
 ## My personal projects/products
 
 - [RenderPDF.io - developer-friendly API to render HTML to PDFs in seconds 😎](https://renderpdf.io)
-- [Seth's Travel Diary - simple platform to jot down travel journeys](https://travelled.sethphat.dev)
+- [Seth's Travel Diary - simple platform to jot down travel journeys 🌴](https://travelled.sethphat.dev)
 - [SKard.app 💳 - Spent Management for Vietnamese's HSBC Credit Cards](https://skard.app)
 - [ShipSaaS - Awesome open-sourced libraries for your PHP/Laravel apps](https://github.com/shipsaas) / [ShipSaaS.Tech](https://shipsaas.tech) 🔥
 - [DevToolz for Developers - Fully open-sourced 🧧](https://tools.sethphat.dev/) / [GitHub Repo](https://github.com/sethsandaru/devtoolz)
