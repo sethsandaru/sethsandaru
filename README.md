@@ -22,6 +22,7 @@ My facts:
 
 - [Seth's Tech Blog - where I share tech tips, knowledge, and tricks 🧑‍💻](https://sethphat.dev)
 - [RenderPDF.io - developer-friendly API to render HTML to PDFs in seconds 😎](https://renderpdf.io)
+- [LovelyWork - Employees Recognition, Kudos, Project Celebrations on your Slack workspace 💌](https://lovely.work)
 - [Seth's Travel Diary - my travel journeys 🌴](https://travelled.sethphat.dev)
 - [SKard.app 💳 - Spent Management for Vietnamese's HSBC Credit Cards](https://skard.app)
 - [ShipSaaS - Awesome open-sourced libraries for your PHP/Laravel apps](https://github.com/shipsaas) / [ShipSaaS.Tech](https://shipsaas.tech) 🔥
